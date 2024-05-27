@@ -1,10 +1,10 @@
 <img src="https://github.com/anshum12345/anshum12345/blob/main/Anshum%20Dwivedi...png" alt="logo" width="1000" height="300">
 
 <h1 align="center">Hi 👋, I'm Anshum Dwivedi</h1>
-<h3 align="center">Frontend developer also Knowledge about DSA</h3>
+<h3 align="center">Web Developer</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/9792d43627b178fd4a45bcabb3647d7b34a62d64baf96a19abf6ea19d5cea8dd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
 
-- 🌱 I’m currently learning **Next.js,MERN**
+- 🌱 I’m currently learning **Next.js,MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://anshumdwivedi.vercel.app/](https://anshumdwivedi.vercel.app/)
 
