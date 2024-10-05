@@ -17,21 +17,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/anshum dwivedi" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshum dwivedi" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/dwivedianshum" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dwivedianshum" height="30" width="40" />
-  </a>
-  <a href="https://www.codechef.com/users/debugx_0811" target="blank">
-    <img align="center" src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='40' height='30' viewBox='0 0 16 16' fill='%23f48fb1'><path d='M15.973 1.424A1.75 1.75 0 0015 0H1a1.75 1.75 0 00-.973.424A1.75 1.75 0 000 1.75v12.5c0 .683.394 1.309 1.027 1.576A1.75 1.75 0 001 16h14a1.75 1.75 0 001.973-1.424A1.75 1.75 0 0016 14.25V1.75a1.75 1.75 0 00-.027-.326zM4 7.5v-1h2v1H4zm0 1v1h3v-1H4zm8 2H4v-1h8v1zm1-3h-3V8h3v-1.5zm0 2H7.5V8H13v1.5z'/></svg>" alt="CodeChef" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/xavier_2212" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="xavier_2212" height="30" width="40" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/debugg08" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="debugg08" height="30" width="40" />
-  </a>
+<a href="https://linkedin.com/in/anshum dwivedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshum dwivedi" height="30" width="40" /></a>
+<a href="https://instagram.com/dwivedianshum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dwivedianshum" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/debugx_0811" target="blank"><img align="center" src="[https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg](https://avatars.githubusercontent.com/u/11960354?v=4)" alt="xavier_0811" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/xavier_2212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="xavier_2212" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/debugg08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="debugg08" height="30" width="40" /></a>
 </p>
 
 
