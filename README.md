@@ -1,53 +1,86 @@
 ![Logo](https://github.com/anshum12345/anshum12345/blob/main/Anshum%20Dwivedi...png)
 
-<h1 align="center">Hi 👋, I'm Anshum Dwivedi</h1>
-<h3 align="center">Web Developer</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/anshum12345/anshum12345/blob/main/output-onlinegiftools.gif">
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&center=true&width=435&lines=Hey+There!+I'm+Anshum+Dwivedi+%F0%9F%91%8B;Full+Stack+Web+Developer+%F0%9F%92%BB;Passionate+About+Tech+%F0%9F%92%A1" alt="Typing SVG">
+</h1>
+
+<h3 align="center">Web Developer | MERN Stack Enthusiast</h3>
+
+<p align="center">
+  <img src="https://github.com/anshum12345/anshum12345/blob/main/output-onlinegiftools.gif" alt="coding" width="500" />
+</p>
 
 ---
 
+## 🚀 **About Me**
 - 🌱 I’m currently learning **Next.js** and **MERN Stack**.
-- 👨‍💻 All of my projects are available at [my portfolio](https://anshumdwivedi.vercel.app/).
+- 💻 Passionate about **Full-Stack Development** & creating interactive web experiences.
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://anshum8.vercel.app/)**.
 - 📫 Reach out to me: **[anshumdwivedi8@gmail.com](mailto:anshumdwivedi8@gmail.com)**
-- 📄 [My Resume](https://drive.google.com/file/d/1R8fnx6v9XrLdD9imZOGr-s_tXNlSD1tI/view?usp=drivesdk)
-- ⚡ Fun fact: **"I am very friendly, I think🤝"**
+- 📄 **[My Resume](https://drive.google.com/file/d/1yfAma6s_Tf2yIjTO0bwsuahmz0fGBsTG/view?usp=drive_link)**
+- ⚡ Fun fact: **"I am very friendly, I think 🤝"**
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/anshum-dwivedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshum dwivedi" height="30" width="40" /></a>
-  <a href="https://instagram.com/dwivedianshum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dwivedianshum" height="30" width="40" /></a>
-  <a href="https://www.codechef.com/users/debugx_0811" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="codechef" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/xavier_2212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/debugg08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geeksforgeeks" height="30" width="40" /></a>
+## 🌐 **Connect with Me**
+<p align="center">
+  <a href="https://linkedin.com/in/anshum-dwivedi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://instagram.com/dwivedianshum" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.codechef.com/users/debugg08" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef" alt="CodeChef">
+  </a>
+  <a href="https://www.leetcode.com/xavier_2212" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/debugg08" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksForGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks" alt="GeeksForGeeks">
+  </a>
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353498/bootstrap.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/374171/vscode.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+## 💻 **Languages and Tools**
+<p align="center">
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,express,mongodb,cpp,css,html,sass,bootstrap,tailwind" />
+  </a>
 </p>
 
 ---
 
-<h3 align="left">📊 My Stats:</h3>
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshum12345&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+## 📊 **GitHub Stats**
+<p align="center">
+ 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshum12345&theme=radical" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshum12345&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshum12345&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshum12345&" alt="Streak Stats" /></p>
+## 🎉 **Fun & Extra**
+- 🎵 **Currently Listening:** [Spotify Playlist](https://open.spotify.com/)
+- 🎮 **Favorite Game:** Cricket, Volleyball, Chess  
+- 📚 **Favorite Book:** "Gulliver's travel"  
 
 ---
+
+
+
+---
+
+## 💡 **Badges & Fun Stuff**
+<p align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg">
+  <img src="https://forthebadge.com/images/badges/made-with-javascript.svg">
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg">
+</p>
+
+---
+
+## 🔥 **Fun Fact**
+> *"Coding is like humor. If you have to explain it, it’s bad."* 😂  
