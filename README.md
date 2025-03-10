@@ -1,11 +1,15 @@
-![Logo](https://github.com/anshum12345/anshum12345/blob/main/Anshum%20Dwivedi...png)
+<!-- Full-Screen Logo -->
+<p align="center">
+  <img src="https://github.com/anshum12345/anshum12345/blob/main/Anshum%20Dwivedi...png" alt="Anshum Dwivedi Logo" width="100%" />
+</p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&center=true&width=435&lines=Hey+There!+I'm+Anshum+Dwivedi+%F0%9F%91%8B;Full+Stack+Web+Developer+%F0%9F%92%BB;Passionate+About+Tech+%F0%9F%92%A1" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&center=true&width=500&lines=Hey+There!+I'm+Anshum+Dwivedi+%F0%9F%91%8B;Full+Stack+Web+Developer+%F0%9F%92%BB;Passionate+About+Tech+%F0%9F%92%A1" alt="Typing SVG">
 </h1>
 
-<h3 align="center">Web Developer | MERN Stack Enthusiast</h3>
+<h3 align="center">🚀 Web Developer | MERN Stack Enthusiast 🚀</h3>
 
+<!-- Coding GIF -->
 <p align="center">
   <img src="https://github.com/anshum12345/anshum12345/blob/main/output-onlinegiftools.gif" alt="coding" width="500" />
 </p>
@@ -54,7 +58,6 @@
 
 ## 📊 **GitHub Stats**
 <p align="center">
- 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshum12345&theme=radical" alt="GitHub Streak" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshum12345&layout=compact&theme=radical" alt="Top Languages" />
@@ -65,11 +68,7 @@
 ## 🎉 **Fun & Extra**
 - 🎵 **Currently Listening:** [Spotify Playlist](https://open.spotify.com/)
 - 🎮 **Favorite Game:** Cricket, Volleyball, Chess  
-- 📚 **Favorite Book:** "Gulliver's travel"  
-
----
-
-
+- 📚 **Favorite Book:** "Gulliver's Travel"  
 
 ---
 
@@ -83,4 +82,4 @@
 ---
 
 ## 🔥 **Fun Fact**
-> *"Coding is like humor. If you have to explain it, it’s bad."* 😂  
+> *"Coding is like humor. If you have to explain it, it’s bad."* 😂
