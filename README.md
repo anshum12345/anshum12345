@@ -1,6 +1,6 @@
 <!-- Full-Screen Logo -->
 <p align="center">
-  <img src="https://github.com/anshum12345/anshum12345/blob/main/Anshum%20Dwivedi...png" alt="Anshum Dwivedi Logo" width="100%" />
+  <img src="https://github.com/anshum12345/anshum12345/blob/main/Grey Minimalist Corporate Personal Profile LinkedIn Banner.png" alt="Anshum Dwivedi Logo" width="100%" />
 </p>
 
 <h1 align="center">
